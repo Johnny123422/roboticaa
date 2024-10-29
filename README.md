@@ -13,3 +13,14 @@ Apăsarea scurtă a butonului de start va porni încărcarea. Apăsarea acestui 
 Apăsarea lungă a butonului de stop va opri încărcarea forțat și va reseta stația la starea liberă. Apăsarea acestui buton cat timp stația este liberă nu va face nimic.
 
 Componente 4x LED-uri (pentru a simula procentul de încărcare) 1x LED RGB (pentru starea de liber sau ocupat) 2x Butoane (pentru start încărcare și stop încărcare) 8x Rezistoare (6x 220/330ohm, 2x 1K) Breadboard Linii de legătură
+
+![WhatsApp Image 2024-10-22 at 22 41 03](https://github.com/user-attachments/assets/5ba657e8-11a4-4b11-a6e2-610c560d4302)
+
+
+
+https://github.com/user-attachments/assets/50bb8bee-2fa9-4b53-a50b-46bf34746e33
+
+![Bodacious Jaiks-Hango](https://github.com/user-attachments/assets/ec1ee274-bd1d-4737-b537-071b021a35f5)
+
+
+
