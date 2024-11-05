@@ -49,7 +49,7 @@ Dupa 30 de secunde, runda se termină, iar în terminal se va afișa scorul: num
 Jocul se poate opri oricând cu butonul de start/stop.
 Demo
 1. Schema electrica si montaj
-![WhatsApp Image 2024-11-05 at 20 13 08](https://github.com/user-attachments/assets/dccaddfe-eaff-4f9d-a681-c691352c46eb)
+![WhatsApp Image 2024-11-05 at 20 28 34](https://github.com/user-attachments/assets/474054cd-41af-47a3-be35-8fe505a74283)
 
 2. Video
 
