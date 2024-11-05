@@ -51,3 +51,5 @@ Demo
 1. Schema electrica si montaj
 
 2. Video
+
+3.TinkerCad
